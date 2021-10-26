@@ -16,7 +16,7 @@ The project includes a server and a client. The server is designed to be able to
 
 ## Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) to run.
+project requires [Node.js](https://nodejs.org/) to run.
 
 Install the dependencies and devDependencies of server:
 
